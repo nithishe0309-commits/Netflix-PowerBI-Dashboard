@@ -51,3 +51,20 @@ The Power BI project file is included in this repository:
 **Nithish**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+## 📸 Dashboard Screenshots
+
+### 📊 Overview
+![Netflix Report Overview](Netflix_Report_Overview.png)
+
+### 🎭 Genre Analysis
+![Netflix Genre Analysis](Netflix_Genre_Analysis.png)
+
+### 🌍 Country & Duration Analysis
+![Netflix Country and Duration Analysis](Netflix_Country%26Duration_Analysis.png)
+
+### ⭐ Ratings & Audience Analysis
+![Netflix Ratings and Audience Analysis](Netflix_Ratings%26Audience_Analysis.png)
+
+### 📅 Release Trends Analysis
+![Netflix Release Trends Analysis](Netflix_Release%20Trends_Analysis.png)
