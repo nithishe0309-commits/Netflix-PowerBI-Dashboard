@@ -44,7 +44,7 @@ The dashboard transforms raw Netflix data into meaningful visual insights using 
 
 The Power BI project file is included in this repository:
 
-'Netflix Analysis Project.pbix'
+`Netflix Analysis Project.pbix`
 
 ## 👨‍💻 Author
 
